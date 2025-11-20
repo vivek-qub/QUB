@@ -1,0 +1,25 @@
+{"MODEL":"Himalayan 450","COMPANY":"Royal Enfield","CC":411,"TORQUE":32,"MILEAGE":30,"PRICE":"3.06 - 3.20","TYPE":"Adventure"}
+{"MODEL":"390 Adventure","COMPANY":"KTM","CC":373,"TORQUE":37,"MILEAGE":25,"PRICE":3.68,"TYPE":"Adventure"}
+{"MODEL":"G 310 GS","COMPANY":"BMW","CC":313,"TORQUE":28,"MILEAGE":30,"PRICE":3.3,"TYPE":"Adventure"}
+{"MODEL":"V-Strom SX","COMPANY":"Suzuki","CC":399,"TORQUE":37,"MILEAGE":29,"PRICE":2.31,"TYPE":"Adventure"}
+{"MODEL":"Adventure","COMPANY":"Yezdi","CC":null,"TORQUE":27,"MILEAGE":35,"PRICE":2.3,"TYPE":"Adventure"}
+{"MODEL":"390 Duke","COMPANY":"KTM","CC":373,"TORQUE":37,"MILEAGE":26,"PRICE":null,"TYPE":"Sports Naked"}
+{"MODEL":"RC 390","COMPANY":"KTM","CC":373,"TORQUE":35,"MILEAGE":28,"PRICE":3.22,"TYPE":"Sports"}
+{"MODEL":"Apache RR 310","COMPANY":"TVS","CC":312,"TORQUE":27.3,"MILEAGE":30,"PRICE":"2.56 - 3.11","TYPE":"Sports"}
+{"MODEL":"G 310 RR","COMPANY":"BMW","CC":313,"TORQUE":28,"MILEAGE":32,"PRICE":2.81,"TYPE":"Sports"}
+{"MODEL":"Interceptor 650","COMPANY":"Royal Enfield","CC":648,"TORQUE":52,"MILEAGE":null,"PRICE":"3.32 - 3.63","TYPE":"Classic\/Cruiser"}
+{"MODEL":"Continental GT 650","COMPANY":"Royal Enfield","CC":648,"TORQUE":52,"MILEAGE":35,"PRICE":"3.29 - 3.78","TYPE":"Cafe Racer"}
+{"MODEL":"Ninja 300","COMPANY":"Kawasaki","CC":296,"TORQUE":27,"MILEAGE":28,"PRICE":"3.17 - 3.43","TYPE":"Sports"}
+{"MODEL":"Shotgun 650","COMPANY":"Royal Enfield","CC":647,"TORQUE":52,"MILEAGE":34,"PRICE":"3.59 - 4.09","TYPE":"Cruiser"}
+{"MODEL":"XPulse 421","COMPANY":"Hero","CC":411,"TORQUE":37.5,"MILEAGE":35,"PRICE":"~2.5","TYPE":"Adventure"}
+{"MODEL":"Apache RTR 310","COMPANY":"TVS","CC":312,"TORQUE":27.3,"MILEAGE":30,"PRICE":2.21,"TYPE":"Sports Naked"}
+{"MODEL":"Scrambler 400X","COMPANY":"Triumph","CC":399,"TORQUE":null,"MILEAGE":30,"PRICE":2.68,"TYPE":"Scrambler"}
+{"MODEL":"X440","COMPANY":"Harley Davidson","CC":438,"TORQUE":38.5,"MILEAGE":22,"PRICE":2.4,"TYPE":"Cruiser"}
+{"MODEL":"Dominar 400","COMPANY":"Bajaj","CC":373,"TORQUE":35,"MILEAGE":30,"PRICE":2.3,"TYPE":"Power Cruiser"}
+{"MODEL":"Jawa 42 Bobber","COMPANY":"Jawa","CC":293,"TORQUE":null,"MILEAGE":30,"PRICE":1.95,"TYPE":"Bobber\/Cruiser"}
+{"MODEL":"Classic 350","COMPANY":"Royal Enfield","CC":346,"TORQUE":30,"MILEAGE":35,"PRICE":1.93,"TYPE":"Cruiser\/Classic"}
+{"MODEL":"Zontes 350R","COMPANY":"Zontes","CC":348,"TORQUE":30,"MILEAGE":30,"PRICE":2.57,"TYPE":"Sports Naked"}
+{"MODEL":"F77","COMPANY":"Ultraviolette","CC":"EV","TORQUE":"72 Nm (Est)","MILEAGE":"85 km\/charge","PRICE":"2.99 - 3.99","TYPE":"Electric Sport"}
+{"MODEL":"Hiness CB350","COMPANY":"Honda","CC":348,"TORQUE":30,"MILEAGE":35,"PRICE":null,"TYPE":"Modern Classic"}
+{"MODEL":"Perak","COMPANY":"Jawa","CC":334,"TORQUE":28.5,"MILEAGE":30,"PRICE":2.16,"TYPE":"Bobber\/Cruiser"}
+{"MODEL":"Xtreme 200S","COMPANY":"Hero","CC":199,"TORQUE":18.1,"MILEAGE":40,"PRICE":1.41,"TYPE":"Sports Tourer"}
