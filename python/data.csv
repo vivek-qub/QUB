@@ -1,26 +1,101 @@
 MODEL,COMPANY,CC,TORQUE,MILEAGE,PRICE,TYPE
-Himalayan 450,Royal Enfield,411,32,30,3.06 - 3.20,Adventure
-390 Adventure,KTM,373,37,25,3.68,Adventure
-G 310 GS,BMW,313,28,30,3.3,Adventure
-V-Strom SX,Suzuki,399,37,29,2.31,Adventure
-Adventure,Yezdi,,27,35,2.3,Adventure
-390 Duke,KTM,373,37,26,,Sports Naked
-RC 390,KTM,373,35,28,3.22,Sports
-Apache RR 310,TVS,312,27.3,30,2.56 - 3.11,Sports
-G 310 RR,BMW,313,28,32,2.81,Sports
-Interceptor 650,Royal Enfield,648,52,,3.32 - 3.63,Classic/Cruiser
-Continental GT 650,Royal Enfield,648,52,35,3.29 - 3.78,Cafe Racer
-Ninja 300,Kawasaki,296,27,28,3.17 - 3.43,Sports
-Shotgun 650,Royal Enfield,647,52,34,3.59 - 4.09,Cruiser
-XPulse 421,Hero,411,37.5,35,~2.5,Adventure
-Apache RTR 310,TVS,312,27.3,30,2.21,Sports Naked
-Scrambler 400X,Triumph,399,,30,2.68,Scrambler
-X440,Harley Davidson,438,38.5,22,2.4,Cruiser
-Dominar 400,Bajaj,373,35,30,2.3,Power Cruiser
-Jawa 42 Bobber,Jawa,293,,30,1.95,Bobber/Cruiser
-Classic 350,Royal Enfield,346,30,35,1.93,Cruiser/Classic
-Zontes 350R,Zontes,348,30,30,2.57,Sports Naked
-F77,Ultraviolette,EV,72 Nm (Est),85 km/charge,2.99 - 3.99,Electric Sport
-Hiness CB350,Honda,348,30,35,,Modern Classic
-Perak,Jawa,334,28.5,30,2.16,Bobber/Cruiser
+Himalayan 450,Royal Enfield,411,32.0 Nm,30,3.06 - 3.20,Adventure  
+  390 Adventure,KTM,373,37.0,25,3.68,adventure
+G 310 GS,BMW,313,28.0Nm,30,3.3,Adventure
+v-strom sx,Suzuki,399,37.0,29,2.31,Adventure
+Adventure,Yezdi,334,27.0,35,2.3,Adventure 
+XPulse 421,hero,411,37.5,35,2.5,adventure
+Xpulse 200 4V,Hero,199,18.1,40,TBA,  Adventure
+RC 390,KTM,373,Not Available,28,3.22,Sports
+  Apace RR 310,TVS,312,Not Available,30,2.56 - 3.11,Sports
+G 310 RR,BMW,313,Not Available,32,2.81,Sports
+Ninja 300,Kawasaki,N/A,-,28,3.17 - 3.43,Sports
+R15 V4,Yamaha,155,14.2,45,?,  Sports
+RC 200,KTM,199,19.5,35,2.15,Sports
+Gixxer SF 250  @,Suzuki,249,22.2,35kmpl,1.86,Sports
+RS 457  ,Aprilia,null,43.5,30,TBA,  Sports
+390 Duke,KTM,,37.0,26,3.14,Sports Naked
+Apache RTR 310,T.V.S,312,nan,?,2.21,sports
+Zontes 350R  ,Zontes,348,30.0,,2.57,Sports Naked
+Duke 250,KTM,248,24.0,null,2.35,sports
+Dominar 250  ,Bajaj,248 cc,23.5,35,?,Sports 
+  MT-15 V2#,Yamaha,155cc,?,45,-,Sports Naked  
+Gixxer 250,Suzuki,249,-,40,?,Sports Naked
+APACHE RTR 200 4V,TVS,197,18.1,40,1.42,Sports Naked
+Pulsarr NS200,Bajaj,199,18.5,38 kmpl,1.48,Sports Naked
+Interceptor 650,Royal Enfield,?,52.0,TBA,3.32 - 3.63 lakh,Cruiser
+Continental GT 650,Royal Enfield,648 cc,52.0,35,3.29 - 3.78,Cafe Racer
+Shotgun 650  ,Royal enfield,647,null,34,3.59 - 4.09,Cruizer
+X440,Harley Davidson,438,38.5,TBA,null,Cruiser
+Dominar 400,Bajaj,373,35.0 NM,30,2.3,Power Cruiser
+Jawa 42 Bobber,Jawa,293,28.0 Nm,30,1.95,Bobber
+Classic 350,Royal enfield,346,nan,35,N/A,Classic
+  PERAK,Jawa,334,28.5,,2.16,Bobber
+Hunter 350,Royal Enfield,349,27.0,36,1.5,  Roadster
+Meteor 350  ,RoyalEnfield,349,27.0,?,2.1,  Cruiser  
+JAWA 42  ,Jawa,nan,Not Available,35,1.98,Cruiser
+Avenger 220,Bajaj,219,18.5,NA,1.35,Cruiser  
+  Scrambler 400X  ,Triumph,399,37.5,30,2.68L,Scrambler
+Yezdi Scrambler,Yezdi,Not Available,28.4,35,2.1,Scrambler
+  Hiness CB350  ,Honda,348,30.0,35,2.1,Modern Classic
+CB350RS,Honda,348,30.0,38,2.24,Modern Classic
+F77,Ultraviolette,EV,72.0,-,2.99 - 3.99,Electric Sport
 Xtreme 200S,Hero,199,18.1,40,1.41,Sports Tourer
+PULSAR 150,Bajaj,149,13.25,50,1.18000,Commuter  
+FZ-S V3  ,Yamaha,NA,13.6 Nm,48,1.25,Commuter
+apache rtr 160 4v,TVS,159,14.73,45,"1,31",Sports
+Gixxer,Suzuki,155,-,55,1.28,Commuter
+Unicorn,Honda,TBA,NA,60,1.12,Commuter
+  F77,Ultraviolette,EV CC,TBA,85,2.99 - 3.99,Electric Sport
+RC 3901,KTM,nan,35.0,28,3.22,Sports
+390 Adventure,KTM,373,37.0,25,3.68,Adventure
+Zontes 350R,Zontes,348,30.0,Not Available,2.57,Sports Naked
+390 Duke,KTM,373,37.0,26,3.14,Sports Naked
+RS 457,Aprilia,457,43.5,?,,Sports
+Apache RR 310,tvs,312,27.3,30,2.56 - 3.11,Sports
+Xpulse 200 4V,Hero,199,18.1,40 kmpl,nan,  Adventure
+FZ-S V3,Yamaha,149,13.6,48,1.25,Commuter
+  Jawa 42,Jawa,293,28.0,35,1.98,Cruiser
+XPulse 421,Hero,411,37.5,35 km/l,2.5,Adventure
+Yezdi Scrambler,Yezdi,334,28.4,NA,2.1,Scrambler
+X440,Harley Davidson,438,38.5,22 kmpl,2.4,Cruiser
+G 310 GS,BMW,313,NA,NA,3.3,Adventure
+390 Adventure,KTM,373,37.0,25,Not Available,Adventure
+XPulse 421,Hero,411,-,?,?,  Adventure
+Gixxer SF 250,Suzuki,249,22.2,TBA,1.86,Sports
+RS 457,Aprilia,457 CC,43.5,30,4.1,  Sports
+Hunter 350,Royal Enfield,349,27.0,36,1.5,Roadster
+Hiness CB350,Honda,348,30.0,35,2.1,Modern Classic
+  390 Adventure,KTM,373,37.0,25,3.68,Adventure
+Avenger 220,Bajaj,,TBA,40 kmpl,1.35000,Cruiser
+  RC 200,KTM,199,19.5,?,2.15,SPORTS
+  Gixxer  ,Suzuki,-,-,55,1.28,Commuter
+Xtreme 200S,Hero,199,18.1,40,₹1.41,Sports Tourer
+Apache RTR 160 4V,tvs,159,?,null,1.31,Sports
+Jawa 42,Jawa,-,28.0,,1.98,Cruiser
+Shotgun 650,ROYAL ENFIELD,647,52.0,34,3.59 - 4.09,cruiser
+RS 457,Aprilia,457,43.5 Nm,30,4.1,Sports
+Dominar 400,bajaj,373,35.0,30,2.3,Power Cruiser
+Yezdi Scrambler  ,Yezdi,334CC,TBA,35,2.1,Scrambler
+  Zontes 350R,Zontes,348,30.0,30,2.57,Sports Naked
+Himalayan 450,Royal  Enfield,,32.0,30,3.06 - 3.20,Adventure
+Ninja 300,Kawasaki,N/A,27.0,28,null,Sports
+Apache RTR 160 4V,TVS,159 cc,N/A,45,1.31,  Sports  
+X440,Harley Davidson,nan,nan,N/A,2.4000,Cruiser
+  Gixxer 250,Suzuki,249,22.2,TBA,1.73,Sports Naked
+Zontes 350R  ,Zontes,348,null,30,2.57,Sports Naked
+  G 310 RR,BMW,313,N/A,NA,2.81,Sports
+Gixer SF 250,Suzuki,249,22.2,35,1.86,Sports
+Gixxer 250,Suzuki,?,N/A,40,null,Sports
+Xpulse 200 4V,Hero,199,18.1,40,1.42,ADVENTURE
+XPulse 421@,Hero,411,nan,35,2.5 Lakh,Adventure
+  Interceptor 650,Royal Enfield,648,52.0Nm,28,3.32 - 3.63,Cruiser
+Xpulse 200 4V  ,Hero ,199,18.1,null,₹1.42,Adventure
+Apache RTR 200 4V,TVS,N/A,18.1,null,1.42,Sports Naked
+Apache RTR 200 4V,TVS,197,nan,40,1.42 lakh,Sports Naked
+HINESS CB350,Honda,348,30.0,35,2.1,Modern Classic  
+Apace RTR 310  ,TVS,312,27.3,30,2.21,Sports Naked
+G 310 GS,BMW,Not Available,28.0,30,,Adventure
+Unicorn,Honda,162 CC,?,60,1.12,Commuter
+Jawa 42 Bobber,Jawa,N/A,null,30,1.95,Bobber  
+Jawa 42,Jawa,293,28.0,35,1.98,Cruiser
